@@ -8,7 +8,7 @@ This repository is for our branching and merge conflict activity.
 
 Ask us questions through the Issues tab.
 
-##Learning Goals
+## Learning Goals
 
 -We want to learn how to **Code**
 
